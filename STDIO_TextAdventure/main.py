@@ -5,7 +5,7 @@ from Story import Story
 def PrintHeader():
 	print "-----------------------------"
 	print "STDIO Choice Adventure Engine"
-	print "By Sam Tregillus and Victoria Cder"
+	print "By Sam Tregillus and Victoria Chong Der"
 	print "Made for the 2017 STDIO Game Jam at the Oakland MADE Museum"
 	print "-----------------------------"
 	
