@@ -1,0 +1,13 @@
+YOU: Excuse me.
+(YOU get the attention of the woman buying the red balloon.)
+YOU: I'm so sorry to ask this. But it's my daughter's birthday and red is her favorite color, I was wondering if you wouldn't mind passing on the red balloon today, so that I could get it for my daughter. It's the only thing she's asked for.
+MAISY: It's ok, Mom.
+WOMAN: Of course, it isn't. You wanted red for your birthday and so you shall have it. Here. On me. Happy birthday!
+(WOMAN passes the balloon to MAISY)
+YOU: That's so kind!
+MAISY: Thank you!
+WOMAN: It's just for my grandson, who honestly cares more about the popping the balloon than the color.
+(YOU and MAISY leave the store, balloon in hand)
+{choiceText}, Continue
+{choiceIDs} Continue
+{labels} Ch2Part2

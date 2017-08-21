@@ -1,0 +1,46 @@
+STDIO Choice Narrative Engine
+
+created by
+
+Sam Tregillus (Programmer)
+Victoria Chong Der (Writer)
+
+for the STDIO Game Jam 2017
+
+The STDIO CNE is a very simple Python script that allows anybody to create a choice-based narrative game.
+
+It also comes with a very simple "example" story, as well as a story written by Victoria for the game jam.
+
+HOW TO RUN IT:
+
+With Python installed, open up a console in the directory with main.py, and type
+python main.py
+
+The program will look at any subdirectories that contain a file called "start.txt".
+It will then list them for the player, who can choose one to run.
+While the story is running, the player can hit the "Enter" key to advance the text.
+Sometimes, there will be choices listed, where the player will have to hit a number that corresponds to a choice and hit enter.
+
+HOW TO CREATE STORIES FOR IT:
+
+The easiest way to understand this (terrible, hastily written) format is to look at the files in the included "example" folder.
+
+The file format basically looks like this:
+
+Textblock1
+Textblock2
+Textblock3
+[someOlderChoiceID] ConditionalTextBlock
+{choiceText}, Text shown to the user for choice 1, Text shown to the user for choice 2
+{choiceIDs} whateverIDForChoice1, whateverIDForChoice2
+{labels} filenameForSectionThatChoice1GoesTo filenameForSectionThatChoice2GoesTo
+
+- Essentially the program will print out any normal text blocks
+- The text that is shown to the user is COMMA-SEPARATED and comes after the {choiceText} tag (also note that there is a comma AFTER the brackets because I'm lazy)
+- The {choiceIDs} tag lets you assign a unique ID to a choice value, that you can then use to display conditional text in a future section
+- The {labels} tag specifies which file to go to if the user makes the corresponding choice.  The labels do NOT need the .txt in them, BUT
+for every label, there should be a corresponding .txt file.
+- If you specify "end" as a label, that will end the story.
+- To do conditional text that only shows if a previous choice has been made, you can use square brackets with the choiceID inside.
+
+WOO that's everything.

@@ -1,0 +1,5 @@
+(YOU charge. He screams. He's stronger than you thought but you're well-matched. YOU both struggle. The knife nicks you but clatters out of his hand. YOU grab it and thrust it into his heart.)
+(YOU back away and suddenly remember something. It feels like you can't breathe. YOU run out the door, down some stairs, and onto the street. YOU have to get away. You're running so fast you don't even realize you're still holding the knife)
+{choiceText}, Continue
+{choiceIDs} Continue
+{labels} Ch2start

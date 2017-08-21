@@ -1,0 +1,8 @@
+(GUY turns around. He is slicing an apple with a knife)
+GUY: On the other hand, what if it's in our nature?
+YOU: What is?
+GUY: What if we were bad and it's in our nature and we can't shake it.
+(You shiver)
+{choiceText}, Kill him, Bide time till you know more
+{choiceIDs} Kill Chill
+{labels} Ch1Kill Ch1Chill

@@ -1,0 +1,28 @@
+(YOU wake up.)
+MAISY: You ok, Mom?
+YOU: Yeah, yeah, Weird dream about a guy in a hotel...
+(MAISY looks at you, worried)
+YOU: Nothing, sweetheart.
+(YOU look at your phone. It's almost 3 o'clock.)
+YOU: Maisy!
+MAISY: What?
+YOU: Why'd you let me nap so long? I said five minutes!
+MAISY: You're tired.
+(YOU get out of the car and so does MAISY)
+YOU: I'm not. I'm just old. And respectable people don't take longer than 5 minutes naps in their car. Do you understand? We're not homeless.
+(At least not yet, you think)
+MAISY: We have plenty of time to get to the bank-
+YOU: No, you were sweet enough to only ask for a red balloon and that's what you're going to get.
+MAISY: I don't care, Mom!
+YOU: No! You are twelve! This is a big day! I am getting you your gift, no matter if it's small.
+(YOU drag MAISY into the store. YOU get in line. The line is short and it's only 10 minutes to get to the bank, you might just make it in time.)
+MAISY: Practice time! So what do you say when the banker asks you how you expect to repay this small business loan?
+YOU: I'll show him our financial statements highlighting the profit from the last two pop-ups we've had. And our online sales at Etsy.
+MAISY: Don't forget about your excellent credit.
+YOU: Right.
+MAISY: And what if he brings up how little we have in savings?
+YOU: I'll say that I know traditionally, people have 15%, but he'll see that we're only short $1000 which can easily be made in a month's time.
+(The woman ahead of you buys a red balloon. YOU realize it's the last red balloon.)_
+{choiceText}, Tell the woman ahead of you that it's your daughter's birthday, Wait to see if they have more red balloons in the back
+{choiceIDs} Tell Wait
+{labels} Ch2Tell Ch2Wait

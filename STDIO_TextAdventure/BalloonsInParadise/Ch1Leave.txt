@@ -1,0 +1,10 @@
+YOU: Ya know, I probably gotta get home.
+GUY: Yeah... probably. But uh, where's that, you know what I mean? Like, where? I mean, for all we know, this could be our home, my little gay lover.
+(YOU have a flash of a condo. There is a little boy smiling at you eating a bowl of cereal. Somewhere, you're not sure where, there's a little boy waiting for you) 
+YOU: No, no. This isn't.  I- I have a son.
+(YOU get another flash of a woman who needs- No. No. That was just a dream)
+YOU: My son- he's waiting for me. I have to get home.
+(YOU gather the things that look like they belong to you)
+{choiceText}, Continue
+{choiceIDs} Continue
+{labels} Ch1Part2

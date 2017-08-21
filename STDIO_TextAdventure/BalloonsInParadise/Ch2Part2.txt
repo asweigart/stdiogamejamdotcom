@@ -1,0 +1,5 @@
+(As you walk out, a man knocks into MAISEY. MAISEY falls down and the balloon lingers for a moment in a gust of air, then floats floats away. It bounces against a street post on its way, then a tree and then, to the far beyond. YOU look at the man running.)
+YOU: Hey!
+{choiceText}, Chew him out, Explain what happened
+{choiceIDs} Chew Explain
+{labels} Chew Explain 
