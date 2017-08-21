@@ -1,0 +1,6 @@
+[banana] You didn't drink water, so now you're thirsty
+[water] You didn't eat a banana, so now you're hungry
+Your life is ruined. 
+{choiceText}, Ohnooo, Dang
+{choiceIDs} meh meh
+{labels} end end

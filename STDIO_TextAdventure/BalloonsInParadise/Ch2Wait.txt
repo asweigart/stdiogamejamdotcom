@@ -1,0 +1,12 @@
+(The WOMAN leaves the store with the red balloon)
+YOU: I don't suppose you have a red balloon?
+CASHIER: Sorry, just sold the last one.
+YOU: I'm sorry, honey. Is there another color I can get you?
+(For just a moment, MAISY's veneer flashes disappointment. You know it's not that she needs a red balloon but just that, for once, she'd want you to come through on what you promised. MAISY quickly hides her disappointment.)
+MAISY: It's just a balloon, Mom. Whatever is fine.
+YOU: Well, you can choose.
+MAISY: Green.
+(YOU get a green balloon and walk out the store. MAISEY is happy again. You're not sure how you got such a great kid.)
+{choiceText}, Continue
+{choiceIDs} Continue
+{labels} Ch2Part2

@@ -1,0 +1,15 @@
+YOU: So uh... I don't want to alarm you or anything....
+GUY: So I am gay.
+YOU: No, well, maybe. But - did you maybe, cut yourself?
+GUY: What?
+YOU: It's just, your back - it's... covered in dried blood.
+GUY: What? What?!
+(GUY spins in circles trying to look at his back. He's like a dog chasing his tail. It goes on for far too long.)
+GUY: Oh! We're artists!
+(YOU suddenly remember a brilliant canvas of silver and green. )
+YOU: I am!
+(YOU see a woman in need of- No, no. That's a dream, that's not your art)
+GUY: Yeeaaaah! We're not killers! We're artists!
+{choiceText}, Continue
+{choiceIDs} Continue
+{labels} Ch1Part2

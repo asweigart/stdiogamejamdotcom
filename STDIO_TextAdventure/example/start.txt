@@ -1,0 +1,5 @@
+This is the start of the story!  What a great story it will be!
+Here's another line of text that is awesome!
+{choiceText}, Eat a banana, Drink some water
+{choiceIDs} banana water
+{labels} banana water

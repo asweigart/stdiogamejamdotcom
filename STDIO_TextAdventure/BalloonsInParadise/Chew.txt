@@ -1,0 +1,20 @@
+[Kill] YOU: Hey, creep!
+[Kill] (YOU run after him)
+[Kill] YOU: You just go around running into kids and don't even stop to say-
+[Kill] (MAISEY yells and is pushing at the man.)
+[Kill] MAISEY: Get away! Get away from her!
+[Kill] (YOU notice the knife and the blood on his shirt too late. You see the wild lost look in his eyes.)
+[Kill] YOU: Nooooo!
+[Kill] (He stabs Maisey. She falls and he runs away. YOU hold onto MAISEY, begging her to stay, knowing it's too late.)
+[Chill] YOU: Hey, creep!
+[Chill] (YOU run after him)
+[Chill] YOU: You just go around running into kids and don't even stop to say sorry?
+[Chill] (He doesn't stop, he keeps running)
+[Chill] YOU: Asshole!
+[Chill] (YOU jog back to MAISEY. She is crying)
+[Chill] YOU: Oh sweetie. I'll get you another one.
+[Chill] MAISEY: Forget it. Just- please. Let's just- let's just go to the interview.
+[Chill] (In her voice you hear the sound of someone who has grown up way too fast. You drive together to the bank. She is quiet. You feel her slipping away like a balloon you can't seem to hold onto.)
+{choiceText}, Continue
+{choiceIDs} Continue
+{labels} end end

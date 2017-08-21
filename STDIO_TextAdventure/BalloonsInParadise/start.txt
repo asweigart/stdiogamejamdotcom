@@ -1,0 +1,24 @@
+CHAPTER 1
+(You wake up. It is dark. Too dark)
+YOU: I can't see! Why can't I see?
+GUY: Shhh... Give it a minute.
+YOU: No. No! Something's wrong! Call-
+(The room comes into focus. Around you is a trashed hotel room.)
+GUY: Duuuuude, chiiiiilllll.
+(YOU look down, you're a guy)
+YOU: Whoa. What'd we do last night? 
+GUY: Musta been good. Look at this room, yo.
+YOU: Shit. What kinda drug makes you forget you're male?
+(GUY looks at you. His eyes are red, you get a shiver)
+YOU: Uhhhh... weird question. But- what's my name?
+GUY: That's a good question. Basic question. I like that you keep it simple. It's like you're remembering your roots, ya know?
+YOU: You don't know, do you?
+GUY: I mean, I don't know my name if that makes you feel better.... Maybe this is a gift. It's our opportunity to start over, ya know? Maybe we were killers before and now we can finally do good, start a clean slate.
+YOU: You think doing one good thing can wipe out killing someone?
+GUY: Gotta start somewhere.
+(GUY gets up. He is naked and does a downward dog yoga pose. His back is covered in dried blood)
+YOU: Ummmm....
+GUY: Oh whoa. Are we gay, bro?
+{choiceText}, Ask about the blood on his back, Make an excuse to leave
+{choiceIDs} Ask Leave
+{labels} Ch1Ask Ch1Leave

@@ -1,0 +1,19 @@
+(YOU go to the window, just a little bit of space between you two. He puts the knife down)
+GUY: C'mon, bro. I got you, it'll be alright.
+YOU: Yeah? Cuz I've got this weird feeling I'm supposed to be somewhere and-
+(YOU remember! YOU grab your things and throw a shirt at GUY)
+GUY: What's going on?
+YOU: You asshole!
+GUY: What'd I do?
+YOU: We're late for Mom's funeral!
+GUY: Mom?
+YOU: We're brothers. You convinced me to get wasted.
+GUY: Riiiiight.
+YOU: So are you coming?
+GUY: Dude, this is a lot to take in.
+(GUY sits)
+YOU: I'll stall but if you're not there in 15, we're starting without you.
+(YOU run out the door, down some stairs, and onto the street. It's not far and with traffic, it's better if you just hoof it. YOU run like your life depended on it)
+{choiceText}, Continue
+{choiceIDs} Continue
+{labels} Ch2start

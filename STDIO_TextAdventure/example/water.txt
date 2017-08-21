@@ -1,0 +1,5 @@
+You drank water?  What a great choice!
+However, What about that banana?  Will that come back to haunt you?
+{choiceText}, I am hungry, I don't need food
+{choiceIDs} hungry noFood
+{labels} final final

@@ -1,0 +1,33 @@
+[Chill] YOU: Hey! You just knocked over my kid!
+[Chill] (He turns. He looks vaguely familiar)
+[Chill] SAM: I'm sorry. I'm really sorry.
+[Chill] (He stares at you)
+[Chill] SAM: Do I know you?
+[Chill] YOU: No.
+[Chill] SAM: I think- I think I have something for you.
+[Chill] (He pulls out his wallet and offers you a wad of bills.)
+[Chill] YOU: No, it's ok.
+[Chill] SAM: No, I think- I think I'm supposed to.
+[Chill] YOU: That's crazy, we can't-
+[Chill] SAM: Please, I'm in a hurry.
+[Chill] (MAISEY takes it.)
+[Chill] YOU: Maisey!
+[Chill] SAM: Cute kid.
+[Chill] (He runs off)
+[Chill] (YOU take the money from MAISEY and count off the bills, it's exactly $1000. YOU and MAISEY scream and count again. YOU rush to the bank. You've got a good feeling about this loan.)
+[Kill] YOU: Hey! You just knocked over my kid!
+[Kill] (He turns around, he's holding a knife and has blood on his shirt. He cries.)
+[Kill] SAM: I'm sorry. I'm so sorry.
+[Kill] YOU: It's- it's ok.
+[Kill] SAM: I- I did something bad.
+[Kill] YOU: Go inside, Maisey.
+[Kill] MAISEY: No.
+[Kill] YOU: Go inside and call the police.
+[Kill] (MAISEY goes.)
+[Kill] SAM: I- I think I called my brother. I was wasted and I – he was freaking me out and I- I stabbed him.
+[Kill] YOU: Ok. Let's throw the knife away, ok?
+[Kill] (SAM throws the knife)
+[Kill] (YOU can hear the distant sound of sirens. News coverage comes. You miss your bank loan interview but are upheld as a local hero. MAISEY tells you it's her best birthday yet.)
+{choiceText}, Continue
+{choiceIDs} Continue
+{labels} end end
